@@ -1,0 +1,315 @@
+D:\Keepass Clean\Build\KeePass\Release\KeePass.exe.config
+D:\Keepass Clean\Build\KeePass\Release\KeePass.exe
+D:\Keepass Clean\Build\KeePass\Release\KeePass.pdb
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.AboutForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.AutoTypeCtxForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.CharPickerForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.ColumnsForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.CsvImportForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.DatabaseOperationsForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.DatabaseSettingsForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.DataEditorForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.DataViewerForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.DuplicationForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EcasActionForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EcasConditionForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EcasEventForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EcasTriggerForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EcasTriggersForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EditAutoTypeItemForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EditStringForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.EntropyForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.ListViewForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.FieldPickerForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.FieldRefForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.FileBrowserForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.GroupForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.HelpSourceForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.IconPickerForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.ExchangeDataForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.ImportMethodForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.InternalBrowserForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.KeyCreationForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.KeyPromptForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.LanguageForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.MainForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.OptionsForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.PluginsForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.PrintForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.ProxyForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.PwEntryForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.PwGeneratorForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.SearchForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.SingleLineEditForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.StatusLoggerForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.StatusProgressForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.TanWizardForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.IOConnectionForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.TextEncodingForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.UpdateCheckForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.UrlOverrideForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.UrlOverridesForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.WebDocForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Forms.XmlReplaceForm.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.Properties.Resources.resources
+D:\Keepass Clean\KeePass\obj\Release\KeePass.csproj.GenerateResource.cache
+D:\Keepass Clean\KeePass\obj\Release\KeePass.csproj.CoreCompileInputs.cache
+D:\Keepass Clean\KeePass\obj\Release\KeePass.exe
+D:\Keepass Clean\KeePass\obj\Release\KeePass.pdb
+D:\Keepass Clean\KeePass\obj\Release\KeePass.csprojAssemblyReference.cache
+C:\Keepass\keepass-actual\Build\KeePass\Release\KeePass.exe.config
+C:\Keepass\keepass-actual\Build\KeePass\Release\KeePass.exe
+C:\Keepass\keepass-actual\Build\KeePass\Release\KeePass.pdb
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.csprojAssemblyReference.cache
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.AboutForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.AutoTypeCtxForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.CharPickerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ColumnsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.CsvImportForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DatabaseOperationsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DatabaseSettingsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DataEditorForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DataViewerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DuplicationForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasActionForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasConditionForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasEventForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasTriggerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasTriggersForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EditAutoTypeItemForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EditStringForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EntropyForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ListViewForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.FieldPickerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.FieldRefForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.FileBrowserForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.GroupForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.HelpSourceForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.IconPickerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ExchangeDataForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ImportMethodForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.InternalBrowserForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.KeyCreationForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.KeyPromptForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.LanguageForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.MainForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.OptionsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PluginsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PrintForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ProxyForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PwEntryForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PwGeneratorForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.SearchForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ShamirQuickSaveForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ShamirOpenForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.SingleLineEditForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.StatusLoggerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.StatusProgressForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.TanWizardForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.IOConnectionForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ShamirSaveAllForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.TextEncodingForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.UpdateCheckForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.UrlOverrideForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.UrlOverridesForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.WebDocForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.XmlReplaceForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.Properties.Resources.resources
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.csproj.GenerateResource.cache
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.csproj.CoreCompileInputs.cache
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.csproj.CopyComplete
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.exe
+C:\Keepass\keepass-actual\KeePass\obj\Release\KeePass.pdb
+D:\uni\keepass\keepass-actual\Build\KeePass\Release\KeePass.exe.config
+D:\uni\keepass\keepass-actual\Build\KeePass\Release\KeePass.exe
+D:\uni\keepass\keepass-actual\Build\KeePass\Release\KeePass.pdb
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.csprojAssemblyReference.cache
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.AboutForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.AutoTypeCtxForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.CharPickerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ColumnsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.CsvImportForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DatabaseOperationsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DatabaseSettingsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DataEditorForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DataViewerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.DuplicationForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasActionForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasConditionForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasEventForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasTriggerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EcasTriggersForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EditAutoTypeItemForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EditStringForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.EntropyForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ListViewForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.FieldPickerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.FieldRefForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.FileBrowserForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.GroupForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.HelpSourceForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.IconPickerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ExchangeDataForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ImportMethodForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.InternalBrowserForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.KeyCreationForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.KeyPromptForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.LanguageForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.MainForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.OptionsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PluginsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PrintForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ProxyForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PwEntryForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.PwGeneratorForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.SearchForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ShamirQuickSaveForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ShamirOpenForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.SingleLineEditForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.StatusLoggerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.StatusProgressForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.TanWizardForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.IOConnectionForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.ShamirSaveAllForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.TextEncodingForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.UpdateCheckForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.UrlOverrideForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.UrlOverridesForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.WebDocForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Forms.XmlReplaceForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.Properties.Resources.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.csproj.GenerateResource.cache
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.csproj.CoreCompileInputs.cache
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.csproj.CopyComplete
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.exe
+D:\uni\keepass\keepass-actual\KeePass\obj\Release\KeePass.pdb
+C:\KeePass-MFA-master\Build\KeePass\Release\KeePass.exe.config
+C:\KeePass-MFA-master\Build\KeePass\Release\KeePass.exe
+C:\KeePass-MFA-master\Build\KeePass\Release\KeePass.pdb
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.csprojAssemblyReference.cache
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.AboutForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.AutoTypeCtxForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.CharPickerForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ColumnsForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.CsvImportForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.DatabaseOperationsForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.DatabaseSettingsForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.DataEditorForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.DataViewerForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.DuplicationForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EcasActionForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EcasConditionForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EcasEventForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EcasTriggerForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EcasTriggersForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EditAutoTypeItemForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EditStringForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.EntropyForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ListViewForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.FieldPickerForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.FieldRefForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.FileBrowserForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.GroupForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.HelpSourceForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.IconPickerForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ExchangeDataForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ImportMethodForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.InternalBrowserForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.KeyCreationForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.KeyPromptForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.LanguageForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.MainForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.OptionsForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.PluginsForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.PrintForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ProxyForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.PwEntryForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.PwGeneratorForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.RemoteControlForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.SearchForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ServerAuthenticationForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ShamirQuickSaveForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ShamirOpenForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.SingleLineEditForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.StatusLoggerForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.StatusProgressForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.TanWizardForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.IOConnectionForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.ShamirSaveAllForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.TextEncodingForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.UpdateCheckForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.UrlOverrideForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.UrlOverridesForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.WebDocForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Forms.XmlReplaceForm.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.Properties.Resources.resources
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.csproj.GenerateResource.cache
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.csproj.CoreCompileInputs.cache
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.csproj.CopyComplete
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.exe
+C:\KeePass-MFA-master\KeePass\obj\Release\KeePass.pdb
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\Build\KeePass\Release\KeePass.exe.config
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\Build\KeePass\Release\KeePass.exe
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\Build\KeePass\Release\KeePass.pdb
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.csprojAssemblyReference.cache
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.AboutForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.AutoTypeCtxForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.CharPickerForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ColumnsForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.CsvImportForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.DatabaseOperationsForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.DatabaseSettingsForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.DataEditorForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.DataViewerForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.DuplicationForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EcasActionForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EcasConditionForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EcasEventForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EcasTriggerForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EcasTriggersForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EditAutoTypeItemForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EditStringForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.EntropyForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ListViewForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.FieldPickerForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.FieldRefForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.FileBrowserForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.GroupForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.HelpSourceForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.IconPickerForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ExchangeDataForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ImportMethodForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.InternalBrowserForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.KeyCreationForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.KeyPromptForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.LanguageForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.MainForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.OptionsForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.PluginsForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.PrintForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ProxyForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.PwEntryForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.PwGeneratorForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.RemoteControlForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.SearchForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ServerAuthenticationForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ShamirQuickSaveForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ShamirOpenForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.SingleLineEditForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.StatusLoggerForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.StatusProgressForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.TanWizardForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.IOConnectionForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.ShamirSaveAllForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.TextEncodingForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.UpdateCheckForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.UrlOverrideForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.UrlOverridesForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.WebDocForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Forms.XmlReplaceForm.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.Properties.Resources.resources
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.csproj.GenerateResource.cache
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.csproj.CoreCompileInputs.cache
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.csproj.CopyComplete
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.exe
+C:\Users\gaoer\source\repos\comp8755-2020s2-keepassclient-memorymapped\KeePass\obj\Release\KeePass.pdb

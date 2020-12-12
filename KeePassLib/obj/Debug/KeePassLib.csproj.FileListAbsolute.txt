@@ -1,0 +1,23 @@
+D:\Keepass Clean\Build\KeePassLib\Debug\KeePassLib.xml
+D:\Keepass Clean\Build\KeePassLib\Debug\KeePassLib.dll
+D:\Keepass Clean\Build\KeePassLib\Debug\KeePassLib.pdb
+D:\Keepass Clean\KeePassLib\obj\Debug\KeePassLib.csprojAssemblyReference.cache
+D:\Keepass Clean\KeePassLib\obj\Debug\KeePassLib.csproj.CoreCompileInputs.cache
+D:\Keepass Clean\KeePassLib\obj\Debug\KeePassLib.dll
+D:\Keepass Clean\KeePassLib\obj\Debug\KeePassLib.pdb
+C:\Keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.csprojAssemblyReference.cache
+C:\Keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.csproj.CoreCompileInputs.cache
+C:\Keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.dll
+C:\Keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.pdb
+C:\Keepass\keepass-actual\Build\KeePassLib\Debug\KeePassLib.xml
+C:\Keepass\keepass-actual\Build\KeePassLib\Debug\KeePassLib.dll
+C:\Keepass\keepass-actual\Build\KeePassLib\Debug\KeePassLib.pdb
+C:\Keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.csproj.CopyComplete
+D:\uni\keepass\keepass-actual\Build\KeePassLib\Debug\KeePassLib.xml
+D:\uni\keepass\keepass-actual\Build\KeePassLib\Debug\KeePassLib.dll
+D:\uni\keepass\keepass-actual\Build\KeePassLib\Debug\KeePassLib.pdb
+D:\uni\keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.csprojAssemblyReference.cache
+D:\uni\keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.csproj.CoreCompileInputs.cache
+D:\uni\keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.csproj.CopyComplete
+D:\uni\keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.dll
+D:\uni\keepass\keepass-actual\KeePassLib\obj\Debug\KeePassLib.pdb

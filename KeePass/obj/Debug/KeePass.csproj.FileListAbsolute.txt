@@ -1,0 +1,187 @@
+D:\Keepass Clean\Build\KeePass\Debug\KeePass.exe.config
+D:\Keepass Clean\Build\KeePass\Debug\KeePass.exe
+D:\Keepass Clean\Build\KeePass\Debug\KeePass.pdb
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.csprojAssemblyReference.cache
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.AboutForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.AutoTypeCtxForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.CharPickerForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ColumnsForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.CsvImportForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.DatabaseOperationsForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.DatabaseSettingsForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.DataEditorForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.DataViewerForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.DuplicationForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EcasActionForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EcasConditionForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EcasEventForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EcasTriggerForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EcasTriggersForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EditAutoTypeItemForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EditStringForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.EntropyForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ListViewForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.FieldPickerForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.FieldRefForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.FileBrowserForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.GroupForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.HelpSourceForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.IconPickerForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ExchangeDataForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ImportMethodForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.InternalBrowserForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.KeyCreationForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.KeyPromptForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.LanguageForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.MainForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.OptionsForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.PluginsForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.PrintForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ProxyForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.PwEntryForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.PwGeneratorForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.SearchForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.SingleLineEditForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.StatusLoggerForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.StatusProgressForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.TanWizardForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.IOConnectionForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.TextEncodingForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.UpdateCheckForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.UrlOverrideForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.UrlOverridesForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.WebDocForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.XmlReplaceForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Properties.Resources.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.csproj.GenerateResource.cache
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.csproj.CoreCompileInputs.cache
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.exe
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.pdb
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ShamirSplitForm.resources
+D:\Keepass Clean\KeePass\obj\Debug\KeePass.Forms.ShamirOpenForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.csprojAssemblyReference.cache
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.AboutForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.AutoTypeCtxForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.CharPickerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ColumnsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.CsvImportForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DatabaseOperationsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DatabaseSettingsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DataEditorForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DataViewerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DuplicationForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasActionForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasConditionForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasEventForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasTriggerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasTriggersForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EditAutoTypeItemForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EditStringForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EntropyForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ListViewForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.FieldPickerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.FieldRefForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.FileBrowserForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.GroupForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.HelpSourceForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.IconPickerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ExchangeDataForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ImportMethodForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.InternalBrowserForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.KeyCreationForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.KeyPromptForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.LanguageForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.MainForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.OptionsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PluginsForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PrintForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ProxyForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PwEntryForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PwGeneratorForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.SearchForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ShamirOpenForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.SingleLineEditForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.StatusLoggerForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.StatusProgressForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.TanWizardForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.IOConnectionForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.TextEncodingForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.UpdateCheckForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.UrlOverrideForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.UrlOverridesForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.WebDocForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.XmlReplaceForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Properties.Resources.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.csproj.GenerateResource.cache
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.csproj.CoreCompileInputs.cache
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.exe
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.pdb
+C:\Keepass\keepass-actual\Build\KeePass\Debug\KeePass.exe
+C:\Keepass\keepass-actual\Build\KeePass\Debug\KeePass.pdb
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.csproj.CopyComplete
+C:\Keepass\keepass-actual\Build\KeePass\Debug\KeePass.exe.config
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ShamirQuickSaveForm.resources
+C:\Keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ShamirSaveAllForm.resources
+D:\uni\keepass\keepass-actual\Build\KeePass\Debug\KeePass.exe.config
+D:\uni\keepass\keepass-actual\Build\KeePass\Debug\KeePass.exe
+D:\uni\keepass\keepass-actual\Build\KeePass\Debug\KeePass.pdb
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.csprojAssemblyReference.cache
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.AboutForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.AutoTypeCtxForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.CharPickerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ColumnsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.CsvImportForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DatabaseOperationsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DatabaseSettingsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DataEditorForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DataViewerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.DuplicationForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasActionForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasConditionForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasEventForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasTriggerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EcasTriggersForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EditAutoTypeItemForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EditStringForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.EntropyForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ListViewForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.FieldPickerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.FieldRefForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.FileBrowserForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.GroupForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.HelpSourceForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.IconPickerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ExchangeDataForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ImportMethodForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.InternalBrowserForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.KeyCreationForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.KeyPromptForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.LanguageForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.MainForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.OptionsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PluginsForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PrintForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ProxyForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PwEntryForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.PwGeneratorForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.SearchForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ShamirQuickSaveForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ShamirOpenForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.SingleLineEditForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.StatusLoggerForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.StatusProgressForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.TanWizardForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.IOConnectionForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.ShamirSaveAllForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.TextEncodingForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.UpdateCheckForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.UrlOverrideForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.UrlOverridesForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.WebDocForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Forms.XmlReplaceForm.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.Properties.Resources.resources
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.csproj.GenerateResource.cache
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.csproj.CoreCompileInputs.cache
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.csproj.CopyComplete
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.exe
+D:\uni\keepass\keepass-actual\KeePass\obj\Debug\KeePass.pdb
